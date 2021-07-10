@@ -4,8 +4,13 @@ This code is part of one of the projects in [Udacity sensor fusion nanodegree pr
 ### LiDAR
 ***
 In order to compute the TTC for lidar, we need to find the distance to the closest Lidar point in the path of driving.
-![Image1](https://github.com/babak01/LiDAR-Obstacle-Detection/issues/1#issue-941168789)
+<br>
+<br>
 
+![image1](https://user-images.githubusercontent.com/54375769/125152576-edc98500-e112-11eb-836e-dcb0f33dd316.jpg)
+
+<br>
+<br>
 ### Camera
 ***
 For camera data we track cluster of keypoints between two sussecive frames to estimate the TTC. In this project, we tried different combinations of detectors and descriptors to find the top 3 combinations in terms of speed and accuracy.
