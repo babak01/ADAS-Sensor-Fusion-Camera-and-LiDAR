@@ -35,6 +35,6 @@ The list of top 3 combinations of detectors/descriptors is shown in below table.
 
 | <b>TOP</b>      | <b>Number of keypoints</b> |<b>Detector time (msec)</b>      | <b>Descriptor time (msec)</b> |<b>Number of keypont matches</b>      |<b>Matching time (msec)</b> |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| <b>1st</b>      | Title       | Header      | Title       | Header      | Title       |
-| <b>2nd</b>   | Text        | Paragraph   | Text        | Paragraph   | Text        |
-| <b>3rd</b>   | Text        | Paragraph   | Text        | Paragraph   | Text        |
+| <b>1st</b>      | FAST       | FAST/BRIEF      | HARRIS/BRIEF       | FAST/SIFT      | HARRIS/BRIEF       |
+| <b>2nd</b>   | BRISK        | FAST/ORB   | HARRIS/ORB        | FAST/BRIEF   | HARRIS/ORB        |
+| <b>3rd</b>   | SIFT        | FAST/SHITOMASI   | HARRIS/BRISK        | FAST/ORB   | HARRIS/SIFT        |
