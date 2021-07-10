@@ -1,6 +1,11 @@
 This code is part of one of the projects in [Udacity sensor fusion nanodegree program](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313). The goal of this project is to use sensor fusion technique to calculate the Time to Collision (TTC) with both camera and Lidar sensors. For this project we use the real-world data for both camera and Lidar.
 <br>
 <br>
+
+
+
+<br>
+<br>
 ### LiDAR
 ***
 In order to compute the TTC for lidar, we need to find the distance to the closest Lidar point in the path of driving.
@@ -11,6 +16,7 @@ In order to compute the TTC for lidar, we need to find the distance to the close
 
 <br>
 <br>
+
 ### Camera
 ***
 For camera data we track cluster of keypoints between two sussecive frames to estimate the TTC. In this project, we tried different combinations of detectors and descriptors to find the top 3 combinations in terms of speed and accuracy.
