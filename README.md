@@ -6,8 +6,10 @@ This code is part of one of the projects in [Udacity sensor fusion nanodegree pr
 
 <br>
 <br>
+
 ### LiDAR
 ***
+
 <br>
 In order to compute the TTC for lidar, we need to find the distance to the closest Lidar point in the path of driving.
 <br>
