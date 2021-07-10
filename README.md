@@ -2,7 +2,7 @@ This code is part of one of the projects in [Udacity sensor fusion nanodegree pr
 <br>
 <br>
 
-
+![Project2_lidarCamera_final_gif](https://user-images.githubusercontent.com/54375769/125152635-7c3e0680-e113-11eb-8090-9497aeca3cff.gif)
 
 <br>
 <br>
