@@ -38,3 +38,12 @@ The list of top 3 combinations of detectors/descriptors is shown in below table.
 | <b>1st</b>      | FAST       | FAST/BRIEF      | HARRIS/BRIEF       | FAST/SIFT      | HARRIS/BRIEF       |
 | <b>2nd</b>   | BRISK        | FAST/ORB   | HARRIS/ORB        | FAST/BRIEF   | HARRIS/ORB        |
 | <b>3rd</b>   | SIFT        | FAST/SHITOMASI   | HARRIS/BRISK        | FAST/ORB   | HARRIS/SIFT        |
+
+
+
+<br>
+<br>
+
+## Installation and Run
+***
+The installation and run processes are the same as one that explained in [Udacity github repository](https://github.com/rayryeng/SFND_Lidar_Obstacle_Detection).
